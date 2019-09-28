@@ -1,0 +1,44 @@
+            /* overall css for the page*/
+            .class1{
+                width: 1058px;
+    			border: 32px solid #707370;
+    			padding: 61px;
+    			margin: 71px;
+    			height: 250px;
+    			border-left-width: 13px;
+    			border-right-width: 13px;
+    			background-color: #c7b94e54;
+                }
+            .class2{
+			    width: 1152px;
+			    border: 21px solid #68bcdc;
+			    padding: 28px;
+			    margin: 69px;
+			    padding-inline-start: 31px;
+			    padding-block-start: 30px;
+			    word-spacing: 50px;
+			    letter-spacing: 2;
+			    margin-top: -76px;
+			    background: #cacaca;
+			    height: 137px;
+			    border-left-width: 0px;
+			    border-right-width: 0px;
+			    border-bottom-width: 0px;
+                }
+            .class3{
+                width: 1191px;
+    			border: 9px solid #efeab5;
+    			padding: -11px;
+    			margin: 69px;
+    			margin-top: -28px;
+    			margin-left: -30px;
+    			height: 86px;
+                }
+            .class4{
+                color: red;
+        		font-size: 27px;
+                font-style: bold;
+    			text-align: center;
+				}
+			
+		   

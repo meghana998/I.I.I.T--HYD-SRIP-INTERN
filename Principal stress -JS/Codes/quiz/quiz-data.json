@@ -1,0 +1,278 @@
+{
+    "artciles": [
+        {
+            "quiztitle":"Quiz for Principal Stresses",
+            "containers":"5"
+        },
+        {
+            "q": "The shear stress is a function of:?",
+            "option": [
+                "Shear force and Cross section",
+                "Principle stresses and elevation",
+                "Strain & Compatibility",
+                "Axial prestress & tension"
+            ],
+            "answer": "Shear force and Cross section",
+            "description": "The shear distribution in un cracked structural concrete members linear deformations are assumed to be developed due to shear distribution and the shear stress in a function of shear force and cross section of the members which is given by the equations τv =shear stress, V = shear force, S = first moment of inertia, I = moment of inertia, B = width of the beam section."
+        },
+        {
+            "q": "The strength of concrete subjected to pure shear being nearly twice that in ?",
+            "option": [
+                "Compression.",
+                "Tension",
+                "Bond",
+                "Anchorage"
+            ],
+            "answer": "Tension",
+            "description": "The effect of this shear stress is to induce principal tensile stresses on diagonal planes and in pure shear, the strength of the concrete is twice that of the strength in the tension local failures first appear in the form of diagonal tension cracks in legions of height shear stress "
+        },
+        {
+            "q": " The effect of maximum shear stress (τ v) produces?",
+            "option": [
+                "Principal tensile stresses",
+                "Principal compression stresses",
+                "Principal strain stresses",
+                 "Principal span stresses"
+            ],
+            "answer": "Principal tensile stresses",
+            "description": "cracks are observed at the point of the development of maximum shear stresses diagonally. The effect of this maximum shear stress (τ v) also produces principle tensile stresses on diagonal plane, the calculation of principle tensile stress resulting from direct at critical sections with or without bending and shear combined shall be carried out it is also done at the material change in width of section and should be less than 0.126(fc)1/2."
+        },
+        {
+            "q": " The major principal stresses produced on diagonal plane is expressed as?",
+            "option": [
+                "fx + fy/2",
+                "fx + fy/2 – 1/2 ((fx – fy )2 +4τ v2 )1/2",
+                " fx + fy/2 + 1/2 ((fx – fy)2 +4τ v2 )1/2",
+                "fx – fy/2"
+            ],
+            "answer": "fx + fy/2 – 1/2 ((fx – fy )2 +4τ v2 )1/2",
+            "description": "The major principal stress Fmax =fx + fy/2 + 1/2 ((fx – fy )2 +4τv2 )1/2 Minor principal stress Fmin = fx + fy/2 + 1/2 ((fx – fy )2 +4τ v2 )1/2 Fx, Fy are the direct stresses in horizontal & vertical directions respectively."
+        },
+        {
+            "q": " If the direct stresses are compressive, then the magnitude of principal stresses in prestressed concrete member gets ?",
+            "option": [
+                "Increased",
+                "Decreased",
+                "Constant",
+                "Zero"
+            ],
+            "answer": "Increased",
+            "description": "If the direct stresses are compressive, then the magnitude of principal stresses in prestressed concrete member acts reduced considerably and therefore under working loads, these principal stresses have to be compressive in nature in order to eliminate diagonal cracks in concrete"
+        },
+        {
+            "q": "How many ways are there for improving the shear resistance of structural concrete members by prestressing techniques?",
+            "option": [
+                "4",
+                "6",
+                "3",
+                 "2"
+            ],
+            "answer": "3",
+            "description": "In general three ways of improving the shear resistance of structural concrete members by prestressing techniques:Horizontal or axial prestressing by inclined or sloping cables and vertical or transverse prestressing"
+        },
+        {
+            "q": " A prestressed concrete beam span 10mm of rectangular section, 120mm wide & 300mm deep is axially prestressed on effective force of 180kn, uniformly distributed load of 5kn/m include the self weight of member. Find maximum shear stress at support?",
+            "option": [
+                "20.5n/mm2",
+                "1.05n/mm2",
+                "15.08n/mm2",
+                "4.05n/mm2"
+            ],
+            "answer": "1.05n/mm2",
+            "description": "A= (120×300) = 36×103 mm2, I = 27×107 mm4, Wd = 5kn/m  Shear force at support V = (5×10/2) =25kn  Maximum shear stress at support, τv = (3v/2bh) = (3/2)x(25×103 /120×300) = 1.05n/mm2. "
+        },
+        {
+            "q": "The total number of keys required for a set of n individuals to be able to communicate with each other using secret key and public key crypto-systems, respectively are ?",
+            "option": [
+                "n(n-1) and 2n",
+                "2n and ((n(n - 1))/2)",
+                "((n(n - 1))/2) and 2n"
+            ],
+            "answer": "((n(n - 1))/2) and 2n",
+            "description": "If there are 2 individuals then total number of distinct keys for communication will be 1 Similarly for 3 individuals we will need 2 distinct keys. Like ways for n users we will need n-1 keys So, total number of keys will be 1+2+3+…n-1 = (n (n-1)/2) Now for a public key encryption scheme every individual will have two keys one public key and one private key. Therefore, for n individuals to communicate we will have 2* n keys Hence, the correct answer will be ((n(n – 1))/2) and 2n."
+        },
+        {
+            "q": "A prestressed concrete beam of span 10m of rectangular section, 120mm wide & 300mm deep a curved cable having an eccentricity of 100mm at the centre of span. Find the slope of cable of support ?",
+            "option": [
+                "0.08 radians",
+                "0.01 radians",
+                "0.04 radians",
+                "0.12 radians"
+            ],
+            "answer": "0.04 radians",
+            "description": " I = 10mm, l=100mm Slope of cable at support = (4e/l) = (4×100/10×100) = 0.04 radians"
+        },
+        {
+            "q": " Which type of tensioning is generally uneconomical for vertical prestressing?",
+            "option": [
+                "Post tensioning",
+                "Pre tensioning",
+                "Chemical tension",
+                "Thermal tension"
+            ],
+            "answer": "Post tensioning",
+            "description": "Vertical prestressing is not generally adopted because the length of the cables being short, the loss of prestress due to anchorage slip is excessively large post tensioning is generally uneconomical for vertical prestressing due to losses of prestress encountered"
+        },
+        {
+            "q": "An attacker sits between the sender and receiver and captures the information and retransmits to the receiver after some time without altering the information. This attack is called as ?",
+            "option": [
+                "Denial of service attack",
+                "Masquarade attack",
+                "Simple attack"
+            ],
+            "answer": "Denial of service attack",
+            "description": "An attacker sits between the sender and receiver and captures the information and re-transmits to the receiver after some time without altering the information. This attack is called as Denial of service attack."
+        },
+        {
+            "q": "The normal stress is perpendicular to the area under considerations, while the shear stress acts over the area ?",
+            "option": [
+                "True",
+                "False"
+                
+            ],
+            "answer": "True",
+            "description": "This is the convention used."
+        },
+        {
+            "q": "If a body is subjected to stresses in xy plane with stresses of 60N/mm² and 80N/mm² acting along x and y axes respectively. Also the shear stress acting is 20N/mm²Find the maximum amount of shear stress to which the body is subjected?",
+
+            "option": [
+                "22.4mm",
+                "25mm",
+                "26.3mm",
+                " 27.2mm"
+            ],
+            "answer": "22.4mm",
+            "description": "τ(max)=√( [σ(x)-σ(y) ]²/2² + τ²)."
+        },
+        {
+            "q": " If a body is subjected to stresses in xy plane with stresses of 60N/mm² and 80N/mm² acting along x and y axes respectively. Also the shear stress acting is 10N/mm². Find the inclination of the plane in which shear stress is maximal?",
+            "option": [
+                "45’",
+                "30’",
+                "60’",
+                "15’"
+            ],
+            "answer": "45’",
+            "description": "tan (2Ǿ)=2τ/[σ(x) – σ(y)]. ."
+        },
+        {
+            "q": "If a body is subjected to stresses in xy plane with stresses of 60N/mm² and 80N/mm² acting along x and y axes respectively. Also the shear stress acting is 20N/mm². Find the maximum normal stress?",
+            "option": [
+                "90",
+                "92.4",
+                "94.2",
+                "96"
+            ],
+            "answer": "92.4",
+            "description": " σ=[σ(x) +σ(y)]/2 + √( [σ(x)-σ(y) ]²/2² + τ²)."
+        },
+        {
+            "q": "If a body is subjected to stresses in xy plane with stresses of 60N/mm² and 80N/mm² acting along x and y axes respectively. Also the shear stress acting is 20N/mm². Find the minimum normal stress?",
+            "option": [
+                "45.4",
+                "47.6",
+                "48.2",
+                "50.6"
+                ],
+            "answer": "47.6",
+            "description": "σ=[σ(x) +σ(y)]/2 – √( [σ(x)-σ(y) ]²/2² + τ²)"
+        },
+        {
+            "q": "If compressive yield stress and tensile yield stress are equivalent, then region of safety from maximum principal stress theory is of which shape?",
+            "option": [
+                " Rectangle",
+                "square",
+                "cricle",
+                "ellipse"
+            ],
+            "answer": "square",
+            "description": "The equation of four lines is given by σ1=± S(yt), σ2=±S(yc) Now given S(yt)=S(yc), hence the region of safety is of square shape."
+        },
+        {
+            "q": "Maximum Principal Stress Theory is not good for brittle materials",
+            "option": [
+                "True",
+                "False"
+                
+            ],
+            "answer": "False",
+            "description": " Experimental investigations have shown that maximum principle stress theory gives good results for brittle materials. "
+        },
+        {
+            "q": "The region of safety in maximum shear stress theory contains which of the given shape ?",
+            "option": [
+                "Hexagon",
+                "Rectangle",
+                "Square",
+                "None of the mentioned"
+            ],
+            "answer": "Hexagon",
+            "description": "In maximum shear stress theory we have the following equations: σ1= ±S(yt) σ2= ±S (yt), σ1 – σ2 =±S (yt) assuming S(yt)=S(yc). "
+        },
+        {
+            "q": "The total strain energy for a unit cube subjected to three principal stresses is given by?",
+            "option": [
+                "U= [(σέ) ₁ + (σέ) ₂+ (σέ) ₃]/3",
+                "U= [(σ₁²+σ₂²+σ₃²)/2E] – (σ₁σ₂+σ₂σ₃+σ₃σ₁)2μ",
+                "U= [(σέ) ₁ + (σέ) ₂+ (σέ) ₃]/4",
+                "None of the mentioned"
+            ],
+            "answer": "U= [(σ₁²+σ₂²+σ₃²)/2E] – (σ₁σ₂+σ₂σ₃+σ₃σ₁)2μ",
+            "description": " U= [(σέ) ₁ + (σέ) ₂+ (σέ) ₃]/2 is the basic formula. After substituting values of έ₁, έ₂ and έ₃, we get the expression b. "
+        },
+        {
+            "q": "Distortion energy theory is slightly liberal as compared to maximum shear stress theory.",
+            "option": [
+                "true",
+                "False"
+            ],
+            "answer": "true",
+            "description": "The hexagon of maximum shear theory falls completely inside the ellipse of distortion energy theorem."
+        },
+        {
+            "q": "ow many types of modes of shear cracking are present in structural concrete beams ?",
+            "option": [
+                "4",
+                "2",
+                "5",
+                "8"
+            ],
+            "answer": "2",
+            "description": " Research over the years have shown that there are two major modes of shear cracking in structural concrete beams, web shear cracks, flexure shear cracks and different modes of shear failure patterns are also considered like diagonal tension failure, shear compression failure, web compression failure"
+        },
+        {
+            "q": "The ultimate shear resistance of prestressed concrete with web shear cracking but without flexural crakes & mainly governed by?",
+            "option": [
+                "Limiting value",
+                "Constant value",
+                "Zero",
+                "Infinity"
+            ],
+            "answer": "Limiting value",
+            "description": "The ultimate shear resistance of prestressed concrete sections with web shear cracking but without flexural cracks, is mainly governed by the limiting value of the principal tensile stress developed in concrete, the failure is assumed to take place when the principal tension exceeds the tensile strength of concrete."
+        },
+        {
+            "q": "The flexure shear cracking load in a prestressed member is given by?",
+            "option": [
+                "ACI",
+                "Indian",
+                "British",
+                "Canada"
+            ],
+            "answer": "ACI",
+            "description":"The American code (ACI: 318-1989) recommendations for the flexure shear cracking load in a prestressed member are based on experimental observations that flexure shear cracking initiates at the flexural cracking load plus an additional shear which is a flexural cracking load plus an additional shear which is a function of the strength and density of concrete & the dimensions of the section."
+        },
+        {
+            "q": "What is provided in order to protect a member from collapsing suddenly after the development of shear cracks?",
+            "option": [
+                "Edge reinforcement",
+                "Principal reinforcement",
+                "Span reinforcement",
+                "Shear reinforcement"
+            ],
+            "answer": "Shear reinforcement",
+            "description": "In order to protect a member from collapsing suddenly after the development of shear crack, a minimum shear reinforcement is provided (Asv ) is provided in the form of stirrups which is obtained by satisfying the following condition: Asv/bsv = 0.4/0.87fy In member without shear reinforcement, the inclined shear cracks extend to the compression face resulting in sudden explosive failure this is sometimes referred to as the diagonal tensile modes of failure"
+        }
+    ]
+}
